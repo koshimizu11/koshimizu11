@@ -5,6 +5,10 @@
 
 # Virtualbox
 
+# kali linux
+Japanese(Macintosh)・・・Mac キーボード  
+Japanese(OADG109A)・・・Windows キーボード  
+
 # ペネトレーションテスト用チートシート
 
 

@@ -10,7 +10,10 @@ Japanese(Macintosh)・・・Mac キーボード
 Japanese(OADG109A)・・・Windows キーボード  
 
 # ペネトレーションテスト用チートシート
-
+msfvenom
+```bash
+msfvenom -p <PAYLOAD> <OPTIONS>
+```
 
 # aaa
 * あ
